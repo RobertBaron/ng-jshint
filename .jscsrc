@@ -45,7 +45,7 @@
 
   "disallowMultipleLineBreaks": true,
 
-  "disallowCommaBeforeLineBreak": true,
+  "disallowCommaBeforeLineBreak": false,
   "disallowDanglingUnderscores": true,
   "disallowEmptyBlocks": true,
   "disallowTrailingComma": true,
