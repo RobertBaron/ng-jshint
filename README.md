@@ -224,7 +224,7 @@
   "disallowMultipleLineBreaks": true,
   
   Disallows commas as last token on a line in lists.
-  "disallowCommaBeforeLineBreak": true,
+  "disallowCommaBeforeLineBreak": false,
   
   Disallows identifiers that start or end in _.
   "disallowDanglingUnderscores": true,
